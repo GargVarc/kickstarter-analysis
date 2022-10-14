@@ -1,5 +1,5 @@
 # Kickstarter-analysis
-#### Performing analysis on Kickstarter data to uncover trends
+#### Analysis using MS Excel to uncover trends
 
 ### Overview
 
